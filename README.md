@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&height=250&text=HJS)
 <div algin="center">
 
-####  :wave: Welcome my github profile !
+#  :wave: Welcome my github profile !
 
 <br/>
 <br/>
 
-#  :clipboard: Once I've Used 
+##  :clipboard: Once I've Used 
 
 <br/>
 
@@ -19,8 +19,11 @@
 <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <br/>
 
